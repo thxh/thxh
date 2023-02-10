@@ -1,8 +1,4 @@
-- 👋 Hi, I’m THRAX
-- 👀 I’m interested in MONEY
-- 🌱 I’m currently learning LIFE
-- 💞️ I’m looking to collaborate on EVERYTHING
-- 📫 How to reach me x_x#6666/Thrax#0001
+
 -
 
 <!---
